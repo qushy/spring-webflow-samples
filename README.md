@@ -1,8 +1,7 @@
 Spring Web Flow Samples
 ====================
 
-in tiles3------first commit-------------
-===============================================
+-----------merge result---------
 
 This is the officia3333333333l ses repository for the [Spring Web Flow](http://github.com/SpringSource/spring-webflow) project.
 
