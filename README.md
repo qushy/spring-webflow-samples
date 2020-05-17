@@ -3,7 +3,7 @@ Spring Web Flow Samples
 --------------00000000000--1-===========2==----
 
 ================================================
-This is the official samples repository for the [Spring Web Flow](http://github.com/SpringSource/spring-webflow) project.
+This is the officia3333333333l ses repository for the [Spring Web Flow](http://github.com/SpringSource/spring-webflow) project.
 
 Build and Run
 =============
