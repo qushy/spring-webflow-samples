@@ -1,6 +1,6 @@
 Spring Web Flow Samples
 =======================
-have a test on----local-- github
+have a-- github
 have a test on github------qushaoyan 
 
 ================================================
