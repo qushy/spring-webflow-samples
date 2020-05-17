@@ -1,8 +1,6 @@
 Spring Web Flow Samples
 =======================
-have a-- github
-have a test on github------qushaoyan 
-
+----------------------local merged------
 ================================================
 This is the official samples repository for the [Spring Web Flow](http://github.com/SpringSource/spring-webflow) project.
 
