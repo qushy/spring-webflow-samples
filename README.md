@@ -1,6 +1,6 @@
 Spring Web Flow Samples
 ====================
---------------local changed--1-===========2==----
+--------------00000000000--1-===========2==----
 
 ================================================
 This is the official samples repository for the [Spring Web Flow](http://github.com/SpringSource/spring-webflow) project.
