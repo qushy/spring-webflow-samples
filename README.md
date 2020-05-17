@@ -1,6 +1,6 @@
 Spring Web Flow Samples
 =======================
-----------------------local merged------
+--------------local1  1------
 ================================================
 This is the official samples repository for the [Spring Web Flow](http://github.com/SpringSource/spring-webflow) project.
 
